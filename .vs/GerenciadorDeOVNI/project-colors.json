@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c802fa9-11b5-4e5b-b89d-01ab58a5d193": {
+      "ProjectGuid": "7c802fa9-11b5-4e5b-b89d-01ab58a5d193",
+      "DisplayName": "GerenciadorDeOVNI",
+      "ColorIndex": 0
+    },
+    "7577c21d-1e10-4713-bc20-5339bee758af": {
+      "ProjectGuid": "7577c21d-1e10-4713-bc20-5339bee758af",
+      "DisplayName": "BibliotecaOVNI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
